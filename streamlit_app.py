@@ -4,7 +4,7 @@ from snowflake.snowpark.functions import col,when_matched
 
 
 # Write directly to the app
-st.title(" :cup_with_straw: Customize Your Smoothie! :cup_with_straw: ")
+st.title(" My parents new Healthy Diner ")
 st.write(
   """Choose the fruit you want in your custom smoothie!
   """
